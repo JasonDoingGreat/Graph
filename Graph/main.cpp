@@ -7,6 +7,15 @@
 //
 
 #include <iostream>
+using namespace std;
+
+template <typename Tv, typename Te>
+class Graph {
+    <#instance variables#>
+    
+public:
+    
+};
 
 int main(int argc, const char * argv[]) {
     // insert code here...
